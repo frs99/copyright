@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+*{
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+    text-decoration: none; 
+    list-style: none; 
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.fatherbox .myinfo{
+    width: 600px;
+    background-color: #ececec;
+    box-shadow: 0 3px 6px 0.5px #cecece;
+    padding: 15px 0;
+    border-radius: 10px;
+}
+.fatherbox .myinfo .allinfo{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.fatherbox .myinfo .allinfo .logo{
+    width:100px;
+    border-radius: 50%;
+}
+.fatherbox .myinfo .allinfo .txtinfo{
+    height:76px;
+    margin: 12px 0 12px -35px;
+}
+.fatherbox .myinfo .allinfo .txtinfo h1{
+    margin-bottom:4px;
+    font-size: 26px;
+}
+.fatherbox .myinfo .allinfo .txtinfo p{
+    color: #7b7b7b;
+    font-size: 18px;
+}
+.fatherbox .myinfo .allinfo .icons{
+    height: 82px;
+    margin: 9px 0;
+}
+.fatherbox .myinfo .allinfo .icons a{
+    font-size: 24px;
+    display: block;
+    color: #5D5D5D;
+}

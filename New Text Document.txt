@@ -1,0 +1,32 @@
+Full stack web developer and (UX / UI)
+with info security
+
+If you see this ..
+It means that the design, product or code on the previous page is protected by copyright.
+
+- You cannot reuse or transfer anything without contacting me.
+- You cannot re-use it for commercial or profit purposes.
+- You may find some things open source, and this does not mean that they can be used freely.
+
+I support all content for the sake of learning, but in the framework of transparency between us
+
+Thanks ..
+
+bck: #707070
+shodow: #878787 44% / 0 0 5
+fonts - segoe UI: #848484 
+color icons: #5D5D5D
+
+box #01:
+ w: 600
+ h: 150
+
+box #02:
+ w: 600
+ h: 272
+ 
+ <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+bodey{
+    font-family: 'Roboto Condensed', sans-serif;
+}
