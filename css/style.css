@@ -74,7 +74,7 @@ body{
     color: #000000;
 }
 .fatherbox .myinfo .allinfo .icons a:active{
-    background-color: none;
+    background-color:transparent;
 }
 .fatherbox .infotext{
     width:99%;
