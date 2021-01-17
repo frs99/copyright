@@ -1,8 +1,17 @@
 @charset "utf-8";
-
+@media (max-width:1300px){
+    .fatherbox .myinfo .allinfo .txtinfo{
+        margin:0;
+        left:0;
+    }
+}
 @media(max-width:1000px){
     .fatherbox{
         width:80%;
+        position: static;
+        height:auto;
+        max-height:none;
+        padding:40px 0;
     }
     .fatherbox .myinfo .allinfo .logo{
         width:80px;
@@ -20,9 +29,9 @@
         display: inline;
         margin-right: 10px;
     }
-    .fatherbox .myinfo .allinfo .txtinfo h1{
+   /* .fatherbox .myinfo .allinfo .txtinfo h1{
         
-    }
+    }*/
     .fatherbox .myinfo .allinfo .txtinfo p{
         font-size: 16px;
     }
@@ -33,3 +42,4 @@
         left:0;
     }
 }
+
