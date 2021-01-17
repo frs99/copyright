@@ -5,6 +5,7 @@
     margin: 0px; 
     box-sizing: border-box; 
     text-decoration: none; 
+    -webkit-tap-highlight-color:transparent;
 }
 body{
     font-family: 'Roboto Condensed', sans-serif;
@@ -70,12 +71,16 @@ body{
     margin: 5px 0;
     transition:color 0.5s;
 }
-.fatherbox .myinfo .allinfo .icons a:hover{
-    color: #000000;
-}
 .fatherbox .myinfo .allinfo .icons a:active{
     background-color:transparent;
 }
+.fatherbox .myinfo .allinfo .icons a:visited{
+    color: #5D5D5D;
+}
+.fatherbox .myinfo .allinfo .icons a:hover{
+    color: #000000;
+}
+
 .fatherbox .infotext{
     width:99%;
     max-width:600px;
