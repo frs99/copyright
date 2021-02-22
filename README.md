@@ -11,4 +11,4 @@ I support all content for the sake of learning, but in the framework of transpar
 
 Thanks ..
 
-https://frsdjefaflia.github.io/copyright/index.html
+https://frscodes.github.io/copyright/index.html
